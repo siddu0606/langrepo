@@ -1,0 +1,3 @@
+customer id = 12;
+customer name =beeraiah;
+credit amount = 100000;
